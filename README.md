@@ -26,8 +26,8 @@ Integrantes: Gilliam Argel Monterroza, Leydi Correa Herrera, Sergio Andrés Agud
 ## Instalación y ejecución
 
 ```bash
-git clone <URL-del-repo>
-cd hmm-diagnostico
+git clone https://github.com/sergioagudelo58-rgb/hmm-diagnostico-medico-grupo31.git
+cd hmm-diagnostico-medico-grupo31
 pip install -r requirements.txt
 python src/experimentos.py
 ```
@@ -63,3 +63,5 @@ En Google Colab: sube las carpetas `src/` y `resultados/`, y ejecuta `!python sr
 
 Con las mismas semillas, ejecutar el script dos veces produce archivos CSV idénticos.
 Entorno probado: Python 3.13, numpy 2.5, pandas 3.0, matplotlib 3.11.
+
+![Ejecución del experimento](resultados/ejecucion.png)
