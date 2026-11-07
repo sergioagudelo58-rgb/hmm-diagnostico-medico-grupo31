@@ -1,0 +1,101 @@
+﻿dia,estado_real,sintoma,estado_viterbi
+1,Gripe,Tos,Gripe
+2,Neumonía,Fiebre,Gripe
+3,Gripe,Fatiga,Gripe
+4,Gripe,Fiebre,Gripe
+5,Sano,Sin síntomas,Sano
+6,Sano,Fatiga,Sano
+7,Sano,Tos,Sano
+8,Sano,Sin síntomas,Sano
+9,Sano,Sin síntomas,Sano
+10,Gripe,Fiebre,Gripe
+11,Gripe,Tos,Gripe
+12,Neumonía,Fatiga,Gripe
+13,Neumonía,Tos,Gripe
+14,Neumonía,Tos,Gripe
+15,Gripe,Fiebre,Gripe
+16,Gripe,Fatiga,Gripe
+17,Gripe,Tos,Gripe
+18,Gripe,Tos,Gripe
+19,Sano,Sin síntomas,Sano
+20,Sano,Sin síntomas,Sano
+21,Sano,Tos,Sano
+22,Sano,Sin síntomas,Sano
+23,Gripe,Fatiga,Sano
+24,Gripe,Tos,Sano
+25,Gripe,Tos,Sano
+26,Sano,Sin síntomas,Sano
+27,Sano,Sin síntomas,Sano
+28,Sano,Tos,Sano
+29,Sano,Sin síntomas,Sano
+30,Sano,Sin síntomas,Sano
+31,Sano,Sin síntomas,Sano
+32,Sano,Tos,Sano
+33,Sano,Sin síntomas,Sano
+34,Sano,Sin síntomas,Sano
+35,Sano,Sin síntomas,Sano
+36,Sano,Sin síntomas,Sano
+37,Gripe,Tos,Sano
+38,Sano,Sin síntomas,Sano
+39,Sano,Sin síntomas,Sano
+40,Sano,Tos,Sano
+41,Sano,Sin síntomas,Sano
+42,Gripe,Tos,Sano
+43,Sano,Sin síntomas,Sano
+44,Sano,Sin síntomas,Sano
+45,Sano,Sin síntomas,Sano
+46,Sano,Sin síntomas,Sano
+47,Sano,Sin síntomas,Sano
+48,Sano,Sin síntomas,Sano
+49,Sano,Sin síntomas,Sano
+50,Sano,Fatiga,Gripe
+51,Gripe,Fiebre,Gripe
+52,Sano,Fatiga,Gripe
+53,Sano,Tos,Gripe
+54,Sano,Sin síntomas,Sano
+55,Sano,Fatiga,Sano
+56,Sano,Sin síntomas,Sano
+57,Sano,Sin síntomas,Sano
+58,Sano,Fiebre,Sano
+59,Sano,Tos,Sano
+60,Sano,Sin síntomas,Sano
+61,Sano,Sin síntomas,Sano
+62,Sano,Sin síntomas,Sano
+63,Sano,Sin síntomas,Sano
+64,Sano,Sin síntomas,Sano
+65,Sano,Sin síntomas,Sano
+66,Sano,Fatiga,Sano
+67,Sano,Sin síntomas,Sano
+68,Sano,Sin síntomas,Sano
+69,Gripe,Tos,Sano
+70,Gripe,Sin síntomas,Sano
+71,Gripe,Tos,Gripe
+72,Neumonía,Fiebre,Gripe
+73,Neumonía,Tos,Gripe
+74,Neumonía,Fiebre,Gripe
+75,Neumonía,Tos,Gripe
+76,Neumonía,Fatiga,Gripe
+77,Gripe,Fiebre,Gripe
+78,Sano,Sin síntomas,Sano
+79,Sano,Sin síntomas,Sano
+80,Sano,Tos,Sano
+81,Sano,Fatiga,Sano
+82,Sano,Sin síntomas,Sano
+83,Sano,Sin síntomas,Sano
+84,Gripe,Fatiga,Sano
+85,Gripe,Fatiga,Sano
+86,Sano,Sin síntomas,Sano
+87,Sano,Fatiga,Sano
+88,Sano,Sin síntomas,Sano
+89,Sano,Fatiga,Neumonía
+90,Gripe,Fiebre,Neumonía
+91,Neumonía,Fatiga,Neumonía
+92,Neumonía,Fiebre,Neumonía
+93,Neumonía,Fiebre,Neumonía
+94,Neumonía,Tos,Gripe
+95,Neumonía,Tos,Gripe
+96,Neumonía,Tos,Gripe
+97,Gripe,Fatiga,Gripe
+98,Sano,Sin síntomas,Sano
+99,Sano,Fiebre,Sano
+100,Sano,Sin síntomas,Sano
